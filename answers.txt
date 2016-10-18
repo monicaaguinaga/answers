@@ -1,0 +1,5 @@
+Now, what’s the difference between these two commands?
+echo hello_world.txt
+cat hello_world.txt
+cat prints the contents of the file, while echo just prints the string you type in front of it.
+cat prints the contents of the file, while echo just prints the string you type in front of it.
